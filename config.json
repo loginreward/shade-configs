@@ -107,11 +107,13 @@
 		"xorg-server-xephyr",
 		"xorg-xclipboard",
 		"xorg-xinit",
-		"zen-browser-bin"
+		"zen-browser-bin",
+		"gofumpt"
 	],
 	"sourcepackages": [],
 	"services": [],
 	"configdir": "configs",
 	"buildscriptsdir": "",
-	"branchesdir": ""
+	"branchesdir": "",
+	"packagemanager": "pacman"
 }
